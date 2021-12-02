@@ -1,0 +1,50 @@
+body{
+
+    background-color: rgb(233,215,207);
+    text-align: center;
+    margin: 50px;
+}
+
+a {
+   text-decoration: none;
+    color: rgb(0, 110, 255);
+    font-size: xx-large;
+    
+    }
+    
+    a:hover {
+        text-decoration: ;
+  }
+    a:visited {
+
+        text-decoration: none;
+        }
+p{
+
+color: blue;
+ }   
+ #one {
+    font-family: 'Praise', cursive;
+    color: burlywood;
+    font-size: x-large;
+ }
+ #two{
+
+    font-family: 'Monoton', cursive;
+    color: black;
+ }
+
+
+ .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+     height: 200px;
+     border-radius: 100px;
+  }
+
+  
+
+
+
